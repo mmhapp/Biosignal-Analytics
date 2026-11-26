@@ -1,6 +1,6 @@
 # Biosignal Analytics
 
-This umbrella repository links three projects on [BP and EEG Analysis](https://github.com/mmhapp/BP-and-EEG-Analysis), [ECG, PCG, and SCG Analysis](https://github.com/mmhapp/ECG-PCG-and-SCG-Analysis), and [EEG Analysis](https://github.com/mmhapp/EEG-Analysis). Projects are focused on cardiovascular biosignals (ECG, PCG, SCG), neurological biosignals (EEG), and cross-modal analysis (EEG–BP). 
+This umbrella repository links projects on [BP and EEG Analysis](https://github.com/mmhapp/BP-and-EEG-Analysis), [ECG, PCG, and SCG Analysis](https://github.com/mmhapp/ECG-PCG-and-SCG-Analysis), and [EEG Analysis](https://github.com/mmhapp/EEG-Analysis). Projects are focused on cardiovascular biosignals (ECG, PCG, SCG), neurological biosignals (EEG), and cross-modal analysis (EEG–BP). 
 
 ---
 
